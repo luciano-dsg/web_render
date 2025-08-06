@@ -9,5 +9,3 @@ $ ls -a
 $ git commit -am "initial commit"
 $ git push
 
-pip install streamlit
-streamlit run app.py
