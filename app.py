@@ -52,7 +52,4 @@ if start_button:
 
 st.write(st.session_state['df_experiment_results'])
 
-git add .
-git commit -am 'version 1'
-git push
 
